@@ -4,6 +4,7 @@
     text-emphasis-color: #212529;
     font-weight: 300;
     font-size: larger;
+    font-style: italic;
 }
 
 .image {
@@ -98,4 +99,8 @@ footer {
 
 .texttab {
     font-size: 60px;
+}
+
+body {
+    background-color: lavenderblush;
 }
